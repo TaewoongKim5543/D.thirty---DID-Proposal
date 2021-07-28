@@ -1,4 +1,4 @@
-# DID_Project
+# Decentalized id project of Team Kosk
 Ideas to leverage DID by Team Kosk
 
 We are a team of four South Korean blockchain developers - we are beginner-level blockchain programmers yet, but have worked hard to get our feet to next level. 
